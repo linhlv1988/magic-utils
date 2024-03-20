@@ -1,0 +1,26 @@
+{
+  "name": "magic-convert-date-utils",
+  "version": "1.0.0",
+  "description": "magic-utils A simple npm library to convert a string to a date object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linhlv1988/magic-utils"
+  },
+  "keywords": [
+    "magic",
+    "utils"
+  ],
+  "author": "linhlv1988",
+  "bugs": {
+    "url": "https://github.com/linhlv1988/magic-utilsissues"
+  },
+  "homepage": "https://github.com/linhlv1988/magic-utils#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "license": "ISC"
+}
